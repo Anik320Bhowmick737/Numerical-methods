@@ -1,1 +1,1 @@
-Periodic boundary condition in sin($pi$x) and unit step function in [0,1]
+FTBS demo with $sin(\pi x)$ and unit step function in [0,1]
